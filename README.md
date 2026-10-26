@@ -1,1 +1,1 @@
-# la-speed-cameras
+LA speed camera alerts: a web app that shows LADOT's speed safety camera locations (status as of Oct 26, 2026) and plays a soft ping as you approach one. Open the GitHub Pages site in your phone's browser.
